@@ -1,0 +1,8 @@
+.vscode/
+.vscode/*
+*.gba
+*.elf
+*.map
+*.sav
+*.o
+build/
